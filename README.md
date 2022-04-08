@@ -1,0 +1,2 @@
+# parctice20220408
+使用JavaClass/JavaObject直接原生調用Android指令(PackageManager)
