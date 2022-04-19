@@ -8,6 +8,7 @@ https://docs.unity3d.com/ScriptReference/AndroidJavaObject.html
 Android PackageManager文件 :   
 https://developer.android.com/reference/android/content/pm/ApplicationInfo   
 https://developer.android.com/reference/android/content/pm/PackageManager   
+https://developer.android.com/reference/android/content/pm/ResolveInfo
     
 參考資料 :   
 1. 獲取所有應用及APP圖片:   
