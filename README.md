@@ -16,4 +16,8 @@ https://stackoverflow.com/questions/46205865/how-to-get-android-installed-app-ic
 2. 獲取所有應用(忽略系統):   
 https://codeantenna.com/a/9OahFlPy0l   
 3. 獲取Intent判別 "android.intent.category.LAUNCHER" :   
-https://answers.unity.com/questions/1327186/how-to-get-intent-data-for-unity-to-use.html
+https://answers.unity.com/questions/1327186/how-to-get-intent-data-for-unity-to-use.html   
+
+https://blog.csdn.net/hoxily/article/details/79444326   
+https://www.twblogs.net/a/5ee7b67b8b72e6226833ad4e   
+https://stackoverflow.com/questions/17504169/how-to-get-installed-applications-in-android-and-no-system-apps   
