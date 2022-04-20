@@ -22,3 +22,4 @@ https://answers.unity.com/questions/1327186/how-to-get-intent-data-for-unity-to-
 https://blog.csdn.net/hoxily/article/details/79444326   
 https://www.twblogs.net/a/5ee7b67b8b72e6226833ad4e   
 https://stackoverflow.com/questions/17504169/how-to-get-installed-applications-in-android-and-no-system-apps   
+https://www.233tw.com/unity/21198   
